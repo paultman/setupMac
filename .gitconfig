@@ -55,3 +55,5 @@
     # Create a commit that will be automatically squashed as a fixup when you
     # run `git rebase --autosquash`
     fixup = "commit --fixup=HEAD"
+[credential]
+	helper = osxkeychain
