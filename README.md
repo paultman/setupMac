@@ -3,6 +3,8 @@ This is the start of a mac setup guide to have a standard process to quickly set
 
 It relies on Homebrew for installs, and a bare git dotfile repo for developer configurations.
 
+You can find a more extended writeup on my blog: https://paultman.com/versioning-for-dev-tool-configs-git-for-dotfiles/
+
 ## Tool and Application Instalation
 I have written bash scripts, based on the work of others, to create two install files.  The first is for non-gui tools, the second relies on casks for gui applications.  Brew itself will check and install x-code comman line tools as necessary.
 
