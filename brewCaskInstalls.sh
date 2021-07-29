@@ -17,6 +17,7 @@ brew install --cask zoom
 brew install --cask whatsapp
 brew install --cask grandperspective
 brew install --cask vlc
+brew install --cask transmission
 
 # dev
 brew install --cask iterm2
