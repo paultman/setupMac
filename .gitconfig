@@ -57,3 +57,5 @@
     fixup = "commit --fixup=HEAD"
 [credential]
 	helper = osxkeychain
+[init]
+	defaultBranch = main
