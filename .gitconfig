@@ -6,7 +6,7 @@
     email = paultman@gmail.com
 
 [core]
-    excludesfile = /Users/paultman/.gitignore_global
+    excludesfile = "$HOME/.gitignore_global"
     editor = vim
 
 [color]
