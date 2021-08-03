@@ -47,3 +47,9 @@ This script focuses on common gui based application installs.  It is divided int
 To check app versions use:
 > brew list --cask --versions
 
+### Dotfile dependencies
+I have a few basic dotfile configs here, and there are a few dependencities:
+Install oh-my-zsh, referenced in .zshrc
+> sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+and install the monokai theme, referenced in .vimrc
+> curl https://raw.githubusercontent.com/crusoexia/vim-monokai/master/colors/monokai.vim -o  ~/.vim/colors/monokai.vim --create-dirs 
